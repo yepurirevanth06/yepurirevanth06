@@ -1,6 +1,5 @@
 Hi, I'm Revanth Yepuri 👋
 Software Engineer building scalable backend systems and data pipelines | 
-
 I build and deploy production Python services: REST APIs, containerized ML inference, and data pipelines. Open to backend and software engineering roles starting early 2027.
 🔭 Building Clinical Trial Eligibility Matching Platform, a FastAPI service matching patients to trials with explainable eligibility logic
 📊 Background in data engineering: PostgreSQL, ETL, Tableau
