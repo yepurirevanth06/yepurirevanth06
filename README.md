@@ -1,6 +1,6 @@
 # Hi, I'm Revanth Yepuri 👋
 
-Software Engineer building scalable backend systems and data pipelines | MS Computer Science @ George Mason University (Dec 2026, GPA 3.89)
+Software Engineer building scalable backend systems and data pipelines 
 
 I build and deploy production Python services: REST APIs, containerized ML inference, and data pipelines. Open to backend and software engineering roles starting early 2027.
 
@@ -13,8 +13,9 @@ I build and deploy production Python services: REST APIs, containerized ML infer
 
 ## 🛠️ Skills
 
-**Core:** Python · FastAPI · Flask · PostgreSQL · Redis · Docker · AWS · SQL · CI/CD
-**Also:** C++, JavaScript, scikit-learn, LightGBM, SQLAlchemy, Celery, Tableau
+| | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square) | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
 
 ---
 
