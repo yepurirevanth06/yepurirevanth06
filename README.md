@@ -1,10 +1,10 @@
 # Hi, I'm Revanth Yepuri 👋
 
-Backend & Data Engineer | MS Computer Science @ George Mason University (Dec 2026, GPA 3.89)
+Backend & Data Engineer
 
-I build and deploy production Python services: REST APIs, containerized ML inference, and data pipelines. Currently looking for backend/data engineering roles starting early 2027.
+I build and deploy production Python services: REST APIs, containerized ML inference, and data pipelines. 
 
-- 🔭 Building [Clinical Trial Eligibility Matching Platform](https://github.com/yepurirevanth06/clinical-trial-matcher), a FastAPI service matching patients to trials with explainable eligibility logic
+- 🔭 [Clinical Trial Eligibility Matching Platform](https://github.com/yepurirevanth06/clinical-trial-matcher), a FastAPI service matching patients to trials with explainable eligibility logic
 - 📊 Also into data pipelines and analytics: PostgreSQL, ETL, Tableau
 - 🌱 Sharpening backend fundamentals: async APIs, caching, database performance
 - 📫 Reach me: yepurirevanth06@gmail.com | [LinkedIn](https://linkedin.com/in/revanth-yepuri)
