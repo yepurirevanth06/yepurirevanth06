@@ -80,13 +80,16 @@ LightGBM traffic classifier trained on 692K labeled CICIDS2017 flows with 78 fea
 
 ## 💼 Experience
 **Cyber Security Intern**, AICTE, Hyderabad, India (Oct 2021 - Dec 2021)
+
 Assessed vulnerabilities across 50+ endpoints using Nmap and Wireshark, automated log monitoring and security workflows with Python and Bash on Linux, and validated 100K+ record datasets with Python and SQL for threat analysis reporting.
 
 ## 🎓 Education
 **George Mason University** - M.S. Computer Science, GPA 3.89 (Jan 2025 - Dec 2026)
+
 Coursework: Analysis of Algorithms, Database Management Systems, Computer Systems & Systems Programming, Software Architecture & Design, Component-Based Software Development
 
 **BV Raju Institute of Technology** - B.Tech Computer Science (Aug 2020 - Jun 2024)
+
 Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems
 
 ## 📜 Certifications
