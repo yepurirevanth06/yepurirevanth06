@@ -4,7 +4,7 @@ Software Engineer building backend systems that stay correct under load
 
 M.S. Computer Science student at George Mason University. I build backend and full-stack services in **Java** and **Python**, focused on concurrency control, idempotent APIs, and event-driven messaging, and I ship tested, containerized code with Testcontainers, Docker, and GitHub Actions. Open to backend and software engineering roles starting early 2027.
 
-- 🔭 Recently built [SeatLock](#seatlock-campus-event-seat-booking-platform), a seat booking platform with zero double bookings under 500 concurrent users
+- 🔭 Recently built [SeatLock](https://github.com/yepurirevanth06/seatlock), a seat booking platform with zero double bookings under 500 concurrent users
 - 🧬 Building the [Clinical Trial Eligibility Matching Platform](https://github.com/yepurirevanth06/clinical-trial-matcher), a FastAPI service with explainable eligibility logic
 - ☁️ AWS Certified Developer (Associate) and AWS Certified Cloud Practitioner
 - 📫 Reach me: yepurirevanth06@gmail.com · [GitHub](https://github.com/yepurirevanth06) · [LinkedIn](https://linkedin.com/in/revanth-yepuri) · +1 (571) 604-9589
@@ -61,7 +61,7 @@ M.S. Computer Science student at George Mason University. I build backend and fu
 
 ## 📌 Featured Projects
 
-### SeatLock: Campus Event Seat Booking Platform
+### [SeatLock: Campus Event Seat Booking Platform](https://github.com/yepurirevanth06/seatlock)
 `Java` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `React` `TypeScript` `Docker` `k6`
 
 Full-stack booking platform with 11 REST endpoints, a live React/TypeScript seat map, JWT auth, and role-based access. Delivered **zero double bookings** as 500 concurrent users rushed a 100-seat event (100/100 sold, 1,206 contested holds rejected) using atomic Redis Lua holds and PostgreSQL row locks taken in id order to avoid deadlocks. The same Lua script enforces a 6-seat hold cap per user (20 simultaneous requests yield 6 holds). Replaced 3-second polling with WebSocket (STOMP) push, including hold expirations caught via Redis keyspace events. Checkout is retry-safe with idempotency keys (10 concurrent retries create exactly 1 booking), and confirmation emails go through a transactional outbox with RabbitMQ, 3 retries, and a dead-letter queue. Held a **0% error rate across 1,910 requests at 330ms p95**, verified by 28 Testcontainers integration tests in GitHub Actions CI.
