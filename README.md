@@ -87,6 +87,8 @@ Assessed vulnerabilities across 50+ endpoints using Nmap and Wireshark, automate
 Coursework: Analysis of Algorithms, Database Management Systems, Computer Systems & Systems Programming, Software Architecture & Design, Component-Based Software Development
 
 **BV Raju Institute of Technology** - B.Tech Computer Science (Aug 2020 - Jun 2024)
+Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems
 
 ## 📜 Certifications
-AWS Certified Developer - Associate · AWS Certified Cloud Practitioner
+AWS Certified Developer - Associate 
+AWS Certified Cloud Practitioner
