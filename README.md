@@ -94,4 +94,5 @@ Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, 
 
 ## 📜 Certifications
 AWS Certified Developer - Associate 
+
 AWS Certified Cloud Practitioner
